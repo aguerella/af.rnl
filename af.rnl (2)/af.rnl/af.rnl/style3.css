@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: 'Open Sans', sans-serif;
+  }
+  body{
+    height: 100vh;
+    background-image:
+  url(https://c4.wallpaperflare.com/wallpaper/44/885/105/anime-saekano-how-to-raise-a-boring-girlfriend-eriri-spencer-sawamura-izumi-hashima-wallpaper-preview.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
